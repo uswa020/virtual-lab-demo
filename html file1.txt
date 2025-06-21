@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> </title>
+</head>
+<body>
+<h1> Skills </h1>
+<ol>
+<li> designer </li>
+<li> architect </li>
+<li> programmer </li>
+</ol>
+
+<h2> Hobbies </h2>
+<ul>
+<li> writing </li>
+<li> reading </li>
+<li> gardening </li>
+</ul>
+
+<dl>
+<dt> http </dt>
+<dd> hyper text transfer protocol </dd>
+<a href="target="_blank":http://web.whatsapp.com/">link here </a>
+</body>
