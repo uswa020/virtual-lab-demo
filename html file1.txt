@@ -21,4 +21,5 @@
 <dt> http </dt>
 <dd> hyper text transfer protocol </dd>
 <a href="target="_blank":http://web.whatsapp.com/">link here </a>
+<p> added paragraph in the index.html</p>
 </body>
